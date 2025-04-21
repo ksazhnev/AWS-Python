@@ -1,0 +1,210 @@
+CRUD operations using Django
+https://www.geeksforgeeks.org/build-a-django-application-to-perform-crud-operations/
+
+
+zero to hero in 10 hours
+https://www.youtube.com/watch?v=N4sJj-SxX00&t=12371s
+
+CLI reference
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/index.html
+
+Live Class
+https://www.skool.com/k21academy/calendar?eid=75ada17bbfda41d5b9f5f9c467c3fc86&eoid=1741442400
+
+https://k21academy.com/amazon-web-services/aws-ec2-instance/
+
+Weekly Recording 
+https://www.skool.com/k21academy/classroom/0a34b6ee?md=d70cdeae6e2c4f3a98730fcb386145b8
+
+https://docs.google.com/document/d/1584HIY4aGp-YXJPPPCHK4dibVJk9yxI6/edit?tab=t.0
+
+https://www.skool.com/k21academy/classroom/1cbd4c06?md=5d4785bb55624073a39d097b7efafb82
+
+https://docs.google.com/spreadsheets/d/1Q4I-m9-GJykRzMwBYA4ew3i8T3z1skE7xoKC1H9JDBA/edit?gid=0#gid=0
+
+Labs
+https://www.skool.com/k21academy/classroom/860dca0d?md=8d64dc12065e44e3889b244a8c84070f
+
+Python
+https://www.skool.com/k21academy/classroom/9d7fa519?md=9dfad03ae21b41488c2b9b2494f995be
+https://www.skool.com/k21academy/classroom/9d7fa519?md=8f7cb76a00bf411f8feb703ab56a0b5a
+
+March 8th Zoom Link
+https://us06web.zoom.us/j/82246002548?pwd=Q3A0tJsIaoJL7OLrbaroDcnqnWhvbE.1#success
+
+Free Material
+https://github.com/srijithsrk/AWS/blob/master/AWS-Certified-Solutions-Architect-Official-Study-Guide.pdf.pdf
+
+AWS Class schedule
+https://docs.google.com/spreadsheets/d/1Q4I-m9-GJykRzMwBYA4ew3i8T3z1skE7xoKC1H9JDBA/edit?gid=0#gid=0
+
+https://www.skool.com/k21academy/classroom/d1c70428?md=18c29ea269d0408aad49d9f710329ef8"
+https://aws.amazon.com/solutions/case-studies/delaware-north/
+
+AWS CodeBuild
+https://www.youtube.com/watch?v=qGgNyOkZEb0
+
+
+Days	Dates	Hours	Module 	Agenda	Hands-on-Labs
+
+"Day 0.1 
+(Swami)"	22 Feb 2025	4	Fundamental to Cloud Computing	
+"Introduction to AWS Cloud
+Cloud Concepts Overview: Understanding cloud computing and its benefits.
+AWS Global Infrastructure: Regions, Availability Zones, and Edge Locations.
+Core AWS Services: Introduction to EC2, S3, RDS, and VPC.
+Identity and Access Management (IAM): Users, groups, roles, and policies.
+AWS Shared Responsibility Model: Security responsibilities of AWS and the customer."	
+
+"Day 0.2
+(Swami)"	23 Feb 2025	4	Security and Compliance on AWS 	"Billing, Pricing, and Support
+AWS Compliance Programs: Understanding compliance and data protection.
+AWS Pricing Models: On-demand, Reserved, and Spot Instances.
+AWS Cost Management Tools: Cost Explorer and AWS Budgets.
+AWS Support Plans: Basic, Developer, Business, and Enterprise."	
+					
+	1 Mar 2025		Bonus Session for AWS AI/ML 		
+	2 Mar 2025				
+	
+https://docs.aws.amazon.com/cost-management/latest/userguide/budget-templates.html
+				
+Ameya Sir. 					
+	8 Mar 2025	4	Recap 	"Recap of AWS Fundamental 
+ "	"Create an AWS Free Trial Account
+CloudWatch: Create Billing Alarm & Service Limits
+Create And Connect to Windows EC2 Machine        
+Create And connect to Linux EC2 Machine        
+
+
+	9 Mar 2025	4	AWS Identity & Access Management (IAM)	"AWS IAM Users, Groups, Roles
+AWS Policies
+MFA"	"Working with AWS IAM
+Enable Multi-Factor Authentication
+IAM Power User
+https://k21academy.com/sk/awsjobm01l"
+	15 Mar 2025	4	AWS Storage Services	"a. Simple Storage Service
+b. Elastic File System
+c. Storage Gateways
+d. EBS"	"Create S3 Bucket, Upload & Access Files And Host Website
+Create & Mount Elastic File System (EFS) on EC2 Instances
+Create and Manage EBS Volumes & Snapshots
+
+https://k21academy.com/sk/awsjobm02l"
+	16 Mar 2025	4	AWS Elastic Compute Cloud (EC2)	"a. Compute with EC2
+b. Load Balancers and Autoscaling"	"Host Website On Windows EC2 Instance Using IIS
+Configure Apache Webserver on AWS Linux EC2 Machine
+Network Load Balancer
+Configure a Load Balancer And Autoscaling on EC2 Instances
+Create Launch Template For Auto Scaling Group
+
+https://k21academy.com/sk/awsjobm03l"
+	22 Mar 2025	4	AWS Networking Services	"a. VPC
+b. Endpoints
+c. VPC Peering and Transit Gateway
+d. VPN
+e. Direct Connect
+f. Route53"	"Create Custom Virtual Private Cloud
+Work with VPC Peering Connection
+AWS Elastic IP
+Establish a Client Side VPN
+
+https://k21academy.com/sk/awsjobm04l"
+	23 Mar 2025	4	AWS Monitoring Services	"a. CloudWatch
+b. X-Ray
+c. Event bridge
+d. CloudTrail
+e. Config"	"Get Started with AWS X-Ray
+Configure Amazon CloudWatch to Notify Change In EC2 CPU Utilization
+Enable CloudTrail and Store Logs In S3
+Setting Up AWS Config to Assess Audit & Evaluate AWS Resources"
+
+	29 Mar 2025	4	AWS Database Services	"a. Relational- RDS, Aurora
+b. Non-Relational- DynamoDB
+c. Elasticache
+d. Memchache & Redis
+e. Glue"	"Create & Query with Amazon DynamoDB
+Configure a MySQL DB Instance via Relational Database Service (RDS)
+Create A Redis Cache & Connect It To EC2 Instance
+Amazon Athena
+Introduction to AWS Glue"
+
+	30 Mar 2025	4	AWS Serverless & Analytic Services	"a. Lambda
+b. API-Gateway
+c. SQS/SNS/SES
+d. Kinesis"	"Visualize Web Traffic Using Kinesis Data Streams
+Send An E-mail Through AWS SES
+Event-Driven Architectures Using AWS Lambda, SES, SNS and SQS
+Build API Gateway with Lambda Integration"
+
+	5 Apr 2025	4	AWS Automation & Configuration Management Services	"a. CloudFormation
+b. Elastic Beanstalk
+c. AWS CLI 
+d. AWS SDK
+e. AWS System Manager"	"Create and Update Stacks using CloudFormation
+Create S3 Bucket Using CloudFormation
+Create & Configure EC2 with Helper-Scripts
+Deploy An Application In Beanstalk Using Docker
+Immutable Deployment on Beanstalk Environment
+Blue-Green Deployments Using Elastic Beanstalk
+AWS Serverless Application Model"
+
+	6 Apr 2025	4	AWS Security Services 	"a. AWS WAF
+b. AWS GuardDuty 
+c. AWS Inspector
+d. AWS KMS
+e. Trusted Advisor"	"AWS KMS Create & Use
+Block Web Traffic with WAF in AWS
+Amazon Inspector"
+
+	12 Apr 2025	4	AWS Miscellaneous Services	"a. Multi-account strategies
+b. AWS Control Tower
+c. VMware Cloud on AWS
+d. AWS Outpost
+e. AWS Local Zone
+f. AWS Wavelenght
+g. Disaster Recovery"	(All are the theory topics)
+
+	13 Apr 2025		Exam Prep for Solution Architect. 		
+					
+12			AWS DevOps (CICD Tools and Pipeline)	"a. Principles and History of DevOps 
+b. Codecommit
+c. CodeBuild
+d. CodeDeploy
+e. CodePipeline
+f. Codestar
+g. CodeGuru"	"Working with AWS CodeCommit
+Build Application with AWS CodeBuild
+Deploy Sample Application using AWS CodeDeploy
+Create a Simple Pipeline (CodePipeline)
+Build Application with AWS CodeStar"
+
+13			AWS Container Services 	"a. ECS and EKS
+b. ECS with CICD"	"Create ECR, Install Docker, Create Image, and Push Image To ECR
+Create Task Definitions, Scheduling Tasks, Configuring Services and Cluster using EC2 Launch Types
+Create Elastic Kubernetes Service (EKS) Cluster on AWS"
+14			AWS Migration 	"a. AWS Migration Strategy
+b. Application Migration 
+c. Database Migration
+d. Data Migration
+e. Migrating Monolithic Application"	"Application Migration to AWS
+Database Migration To AWS
+AWS Data Transfer Acceleration
+Migrating a monolithic application to AWS with Docker"
+
+
+https://k21academy.com/amazon-web-services/aws-certified-solutions-architect-associate-saa-c03-exam/
+					
+Tom Carpenter:  (7 Days Free Trial)
+https://www.packtpub.com/en-us/product/aws-certified-solutions-architect-associate-saa-c03-9781837635535?srsltid=AfmBOoog7ZF62fx5czoKrLch77Q5L2QqpzCgLZ6d6iN69qzduey1RRVF
+
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+
+K21 Migrate Oracle to AWS RDS
+https://www.youtube.com/watch?v=OEnYw2olsk4
+
+https://www.youtube.com/watch?v=qjE5p_eEft8
+
+https://www.youtube.com/watch?v=K3-V0x3XSx0
+
+
